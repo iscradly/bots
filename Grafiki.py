@@ -3,7 +3,7 @@ from telebot import types
 import openpyxl
 from datetime import datetime, timedelta
 
-TOKEN = "7251436448:AAH81rGGg4E1HpOIxwocXaHAKfUYwAdN5VY"
+TOKEN = ""
 
 bot = telebot.TeleBot(TOKEN)
 
